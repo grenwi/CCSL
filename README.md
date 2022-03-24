@@ -31,6 +31,7 @@ Das Repository enthält eine [Wiki](https://github.com/Tarlanc/CCSL/wiki), in we
 * Heidi Schulze, LMU München
 * Anke Stoll, Universität Düsseldorf
 * [Julian Unkel](https://github.com/joon-e), LMU München
+* [Gregor Wiedemann](https://github.com/grenwi), Hans-Bredow-Institut
 * Jens Vogelgesang, Universität Hohenheim
 * [Gerret von Nordheim](https://github.com/Gerretvn), Universität Hamburg
 * Annie Waldherr, Universität Wien
